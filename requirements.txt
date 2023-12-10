@@ -1,0 +1,9 @@
+tensorflow
+seaborn
+pandas
+html5lib
+numpy
+matplotlib
+nibabel
+skimage
+os
