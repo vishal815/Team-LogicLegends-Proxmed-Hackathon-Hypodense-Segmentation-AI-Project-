@@ -69,3 +69,10 @@ Ensure you have the following libraries/modules installed:
 ## 
 The results of this project are good, and Team Proxmed has provided a clear explanation of the problem. Our continuous research, experimentation, and tireless efforts, often extending into the late hours of the night, have been instrumental in this project. We have learned a lot from this project. Thank you 😃.
 
+## Clone/Download
+
+To clone or download this project, you can use the following commands:
+
+```bash
+git clone https://github.com/vishal815/Team-LogicLegends-Proxmed-Hackathon-Hypodense-Segmentation-AI-Project-.git
+
