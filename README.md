@@ -11,29 +11,7 @@ The objective of this hackathon challenge is to develop a robust and efficient a
 ## Project Structure
 The project data has been organized in the following format:
 
-Final Data
-│
-├── Image
-│   ├── 1.nii
-│   ├── 2.nii
-│   ├── 3.nii
-│   ├── 4.nii
-│   ├── 5.nii
-│   ├── 6.nii
-│   ├── 7.nii
-│   └── 8.nii
-│
-└── Label
-    ├── 1.nii
-    ├── 2.nii
-    ├── 3.nii
-    ├── 4.nii
-    ├── 5.nii
-    ├── 6.nii
-    ├── 7.nii
-    └── 8.nii
-
-
+![image](https://github.com/vishal815/Team-LogicLegends-Proxmed-Hackathon-Hypodense-Segmentation-AI-Project-/assets/83393190/8c6c7856-5071-4b3b-99db-7771fa2e05ea)
 
 ## Data Preprocessing Steps
 1. Extracted zip data and converted it into the specified structure.
