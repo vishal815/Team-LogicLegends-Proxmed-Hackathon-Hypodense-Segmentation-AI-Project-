@@ -14,24 +14,25 @@ The project data has been organized in the following format:
 Final Data
 │
 ├── Image
-│ ├── 1.nii
-│ ├── 2.nii
-│ ├── 3.nii
-│ ├── 4.nii
-│ ├── 5.nii
-│ ├── 6.nii
-│ ├── 7.nii
-│ └── 8.nii
+│   ├── 1.nii
+│   ├── 2.nii
+│   ├── 3.nii
+│   ├── 4.nii
+│   ├── 5.nii
+│   ├── 6.nii
+│   ├── 7.nii
+│   └── 8.nii
 │
 └── Label
-├── 1.nii
-├── 2.nii
-├── 3.nii
-├── 4.nii
-├── 5.nii
-├── 6.nii
-├── 7.nii
-└── 8.nii
+    ├── 1.nii
+    ├── 2.nii
+    ├── 3.nii
+    ├── 4.nii
+    ├── 5.nii
+    ├── 6.nii
+    ├── 7.nii
+    └── 8.nii
+
 
 
 ## Data Preprocessing Steps
