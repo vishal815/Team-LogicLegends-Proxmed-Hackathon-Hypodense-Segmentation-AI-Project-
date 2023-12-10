@@ -49,15 +49,16 @@ Install dependencies:
 ## Prerequisites
 Ensure you have the following libraries/modules installed:
 
-tensorflow
-seaborn
-pandas
-html5lib
-numpy
-matplotlib
-nibabel
-skimage
-os
+- TensorFlow
+- Seaborn
+- Pandas
+- html5lib
+- NumPy
+- Matplotlib
+- nibabel
+- scikit-image
+- os
+
 
 ## Contributions
 1. **Vishal Lazrus**
